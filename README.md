@@ -1,8 +1,9 @@
-## Olá, mundo 👋
+## Olá, mundo! Meu nome é Brenno Levy! 👋
 
 **💻🖌 Atualmente cursando Design Digital no Campus UFC Quixadá 🖌💻**
 
 Sou um estudadnte de diversas tecnologias para desenvolvimento🤓. Tenho conhecimentos em liguagens de progemação, como Python, PHP, Java e JS, além de conhecimentos em PostgreSQL e Oracle Database. 
+No futuro, pretendo me tornar um desenvolvedor web 💻 ou um desenvolvedor mobile 📱.
 <!--
 **breGarcia66/breGarcia66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
